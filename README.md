@@ -6,4 +6,5 @@ It's a snake game developed using the python
  - 1.Pygame
  - 2.requests
  - 3.Time
-Then you can run it either through cmd or the editor you are using like Visual Studio Code or Pycharm
+
+- Then you can run it either through cmd or the editor you are using like Visual Studio Code or Pycharm
